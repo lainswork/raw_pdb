@@ -15,7 +15,9 @@
 
 # Mono auto generated files
 mono_crash.*
-
+/include/
+[Tt]emp/
+[Ll]ib
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
